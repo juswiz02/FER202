@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin123"
+    }
+  ],
+  "motorbikes": [
+    {
+      "id": 1,
+      "brand": "Honda",
+      "model": "Winner X",
+      "year": 2022,
+      "price": 1500,
+      "stock": 10,
+      "image": "https://example.com/winner-x.jpg"
+    },
+    {
+      "id": 2,
+      "brand": "Yamaha",
+      "model": "Exciter 155",
+      "year": 2023,
+      "price": 1700,
+      "stock": 8,
+      "image": "https://example.com/exciter-155.jpg"
+    },
+    {
+      "id": 3,
+      "brand": "Suzuki",
+      "model": "Raider R150",
+      "year": 2021,
+      "price": 1400,
+      "stock": 12,
+      "image": "https://example.com/raider-r150.jpg"
+    },
+    {
+      "id": 4,
+      "brand": "Piaggio",
+      "model": "Liberty ABS",
+      "year": 2020,
+      "price": 1800,
+      "stock": 5,
+      "image": "https://example.com/liberty-abs.jpg"
+    }
+  ]
+}
