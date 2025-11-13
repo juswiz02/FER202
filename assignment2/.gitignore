@@ -1,0 +1,16 @@
+**/node_modules/
+**/build/
+**/.env
+.vscode/
+>>>>>>> 1708d6b166442f3086aac0a7f2fe6a3000e09c4a
+=======
+**/node_modules/
+**/build/
+**/.env
+.vscode/
+=======
+**/node_modules/
+**/build/
+**/.env
+.vscode/
+>>>>>>> 1708d6b166442f3086aac0a7f2fe6a3000e09c4a
