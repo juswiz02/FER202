@@ -1,0 +1,14 @@
+/* Style phần caption nền mờ, để chữ dễ đọc */
+.carousel .carousel-caption {
+  background: rgba(0, 0, 0, 0.5);
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+.carousel-caption h3 {
+  margin-bottom: 0.5rem;
+}
+
+.carousel-caption .badge {
+  font-size: 1rem;
+}
